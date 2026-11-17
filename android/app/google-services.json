@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "550096764564",
+    "project_id": "myaudiyo",
+    "storage_bucket": "myaudiyo.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:550096764564:android:0e121b5f9b7f635e193e81",
+        "android_client_info": {
+          "package_name": "com.example.audiyo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKReFCdB-R0U3g41nw3hsslDZazii6OQA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
